@@ -36,18 +36,19 @@ Infosys Ltd. | Jan 2023 - Dec 2023
 •	Scheduled and monitored ETL jobs using CA7 for smooth workflow execution
 
 •	Mentored 5 juniors by reviewing code, offering feedback, and assisting with debugging efforts
+
  
-**Senior System Engineer**
-Infosys Ltd. | Apr 2022 - Dec 2022 
+**Senior System Engineer**  
+Infosys Ltd. | Apr 2022 - Dec 2022  
 
 •	Created ETL design and coded ETL processes to support reporting requirements and analytics
 
 •	Reduced data load times by ~20% by optimizing SQL queries that enhanced overall ETL efficiency
 
 •	Developed and enforced data validation rules and quality checks, minimizing errors by 40%
- 
-**System Engineer**
-Infosys Ltd. | Nov 2020 - Mar 2022
+
+ **System Engineer**  
+Infosys Ltd. | Nov 2020 - Mar 2022  
 
 •	Built and maintained data pipelines to handle large-scale data processing, ensuring timely, accurate data for analysis and visualization
 
