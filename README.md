@@ -17,7 +17,7 @@
 
 ## Skills:
 
-SQL, ETL pipeline, Database Management(Teradata and MySQL), Power BI, Python(Pandas, Seaborn, Matplotlib, scikit, Beautifulsoup), Excel**
+SQL, ETL pipeline, Database Management(Teradata and MySQL), Power BI, Python(Pandas, Seaborn, Matplotlib, sklearn, BeautifulSoup), Excel
 
 
 ## Experience
