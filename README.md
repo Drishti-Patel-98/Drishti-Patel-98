@@ -13,12 +13,10 @@
 🔹 Collaborated closely with clients and cross-functional teams to deliver tailored data solutions
 
 🔹 Passionate about transforming raw data into actionable insights  
-
 ---
 ## Skills:
 
-SQL, ETL pipeline, Database Management(Teradata and MySQL), Power BI, Python, Excel**
-
+SQL, ETL pipeline, Database Management(Teradata and MySQL), Power BI, Python(Pandas, Seaborn, Matplotlib, scikit, Beautifulsoup), Excel**
 ---
 ## Experience
 
@@ -53,7 +51,6 @@ Infosys Ltd. | Nov 2020 - Mar 2022
 🔹 Built and maintained data pipelines to handle large-scale data processing, ensuring timely, accurate data for analysis and visualization
 
 🔹 Troubleshot and resolved data issues, improving data accuracy by ~25% 
-
 ---
 ## Education
 
