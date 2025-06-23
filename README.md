@@ -1,7 +1,7 @@
 # Drishti Rakeshbhai Patel
 
 **Data Engineer | Data Analyst**
----
+
 ## Professional Summary
 
 🔹 3+ years of experience in data engineering and data analysis
@@ -14,12 +14,12 @@
 
 🔹 Passionate about transforming raw data into actionable insights  
 
----
+
 ## Skills:
 
 SQL, ETL pipeline, Database Management(Teradata and MySQL), Power BI, Python(Pandas, Seaborn, Matplotlib, scikit, Beautifulsoup), Excel**
 
----
+
 ## Experience
 
 **Technology Analyst**  
@@ -54,7 +54,7 @@ Infosys Ltd. | Nov 2020 - Mar 2022
 
 🔹 Troubleshot and resolved data issues, improving data accuracy by ~25% 
 
----
+
 ## Education
 
 **Bachelor of Technology (Information & Communication Technology)**
