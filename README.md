@@ -22,6 +22,9 @@ SQL, ETL pipeline, Database Management(Teradata and MySQL), Power BI, Python(Pan
 
 ## Experience
 
+**Operations Officer**  
+VFS Global | Aug 2025 - Present 
+
 **Technology Analyst**  
 Infosys Ltd. | Jan 2023 - Dec 2023  
 
