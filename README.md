@@ -22,7 +22,7 @@ SQL, ETL pipeline, Database Management(Teradata and MySQL), Power BI, Python(Pan
 
 ## Experience
 
-**Operations Officer**  
+**Operations Analyst**  
 VFS Global | Aug 2025 - Present 
 
 **Technology Analyst**  
